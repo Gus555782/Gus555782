@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @iam.Def4ult (Augustine)
-- 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
-- 💞️ I’m looking to collaborate on Web development projects
+- 👋 Hi, I’m OLYQZ (Olisaemeka)
+- 👀 I’m interested in IOS Development
+- 🌱 I’m currently learning Swift(#xcode)
+- 💞️ I’m looking to collaborate on IOS Development projects
 - 📫 How to reach me augustineadike@gmail.com
 
 <!---
